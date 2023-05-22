@@ -1,0 +1,30 @@
+#content {
+    position: absolute;
+}
+nav {
+    background-color: darkorange;
+    position: relative;
+    text-align: center;
+}
+#logo {
+width: 50px;
+}
+body {
+    height: 300vw;
+}
+#hero {
+    height: 100px;
+    background-color: red;
+    font-size: 100px;
+    text-shadow: 10px 0px 10px rgb(186, 155, 28);
+    text-align: center;
+    position: relative;
+
+}
+a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+header {
+   
+}
