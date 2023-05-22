@@ -3,5 +3,41 @@ img {
 }
 #face {
   width: 400px;
+  position: relative;
+  left: 550px
+}
+#hair1 {
+  position: absolute;
+  width: 300px;
+  left: 610px;
+}
+[id^="eyes"] {
+  position:fixed;
+  width: 200px;
+  left: 660px;
+  top: 200px;
+}
+#nose2 {
+  position: absolute;
+  width: 106px;
+  left: 709px;
+  top: 237px;
+}
+#mouth2 {
+  position: absolute;
+  width: 200px;
+  left: 650px;
+  top: 300px;
+
 }
 
+#ears1 {
+  position: absolute;
+  width: 361px;
+  left: 573px;
+  top:123px;
+}
+
+body {
+  background-color: orange;
+}
